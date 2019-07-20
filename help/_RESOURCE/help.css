@@ -1,0 +1,75 @@
+body{
+	font				: 8pt;
+	margin				: 2 2 2 2;
+}
+
+h1{
+	background			: #008888;
+	font				: bold 12pt;
+	color				: #ffffff;
+	margin				: 8 0 8 0;
+}
+
+h2{
+	font				: bold 10pt;
+	border-left-style	: solid;
+	border-left-color	: #008888;
+	border-left-width	: 8px;
+	border-left-height	: 1px;
+
+	border-bottom-style	: dotted;
+	border-bottom-color	: #008888;
+	border-bottom-width	: 1px;
+	border-bottom-height: 1px;
+
+	margin				: 8 0 8 0;
+}
+
+h3{
+	font				: 10pt;
+	border-left-style	: solid;
+	border-left-color	: #008888;
+	border-left-width	: 8px;
+	border-left-height	: 1px;
+
+	margin				: 8 0 8 0;
+}
+
+table{
+	width				: 100%;
+}
+
+td{
+	font				: 8pt;
+	border-left-style	: dotted;
+	border-left-color	: #008888;
+	border-left-width	: 1px;
+	border-left-height	: 1px;
+
+	border-bottom-style	: dotted;
+	border-bottom-color	: #008888;
+	border-bottom-width	: 1px;
+	border-bottom-height: 1px;
+
+	vertical-align		: top;
+}
+
+td.key{
+	font				: BOLD 8pt;
+}
+
+td.head{
+	background			: #008888;
+	color				: #ffffff;
+	font				: BOLD 8pt;
+
+	border-left-style	: solid;
+	border-left-color	: #008888;
+	border-left-width	: 0px;
+	border-left-height	: 0px;
+
+	border-bottom-style	: solid;
+	border-bottom-color	: #008888;
+	border-bottom-width	: 0px;
+	border-bottom-height: 0px;
+}

@@ -1,0 +1,123 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by DBTool.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDR_MAINFRAME                   128
+#define IDR_DBTOOLTYPE                  129
+#define IDD_LOGIN_DLG                   131
+#define IDB_TREEICON                    133
+#define IDR_POPUP                       134
+#define IDD_TABLE_CREATOR_DLG           135
+#define IDD_DB_ERACER_DLG               136
+#define IDD_DB_RESTORE_DLG              137
+#define IDD_DB_BACKUP_DLG               138
+#define IDD_RESTORESQL_DLG              139
+#define IDD_CONFIG_DLG                  142
+#define IDD_BASE_CUST                   143
+#define IDD_HIST_CUST                   144
+#define IDD_PROC_DLG                    145
+#define IDD_INP_LOGIN_SET_DLG           146
+#define IDD_INFO_DLG                    147
+#define IDB_TOOLBAR256                  148
+#define IDD_SQLHISTDLG                  149
+#define IDD_SQL_VIEW_DLG                150
+#define IDC_SERVER                      1000
+#define IDC_USER                        1001
+#define IDC_PASSWORD                    1002
+#define IDC_DB_CMB                      1004
+#define IDC_DB_ODBCCMB                  1005
+#define IDC_SELDB_BTN                   1006
+#define IDC_AFTERDBSEL                  1007
+#define IDC_DTTYPE_CMB                  1008
+#define IDC_TABLELIST                   1009
+#define IDC_DBLIST                      1010
+#define IDC_REF_DBBACKUP                1013
+#define IDC_DBNAME                      1014
+#define IDC_BACKUP_PATH                 1015
+#define IDC_REF_DBRESTORE               1016
+#define IDC_TABLE_LIST                  1018
+#define IDC_CUST_TAB                    1019
+#define IDC_HIST_LIST                   1020
+#define IDC_HIST_DEL                    1021
+#define IDC_LOGTAB_CHK                  1023
+#define IDC_INCLIMENTAL                 1024
+#define IDC_PROP_EDIT                   1025
+#define IDC_LOGINSET_LIST               1026
+#define IDC_NEW_SET                     1029
+#define IDC_DEL_SET                     1030
+#define IDC_NAME                        1031
+#define IDC_MODIFY_SET                  1032
+#define IDC_INFOAREA                    1034
+#define IDC_SEL_MASTER_BTN              1035
+#define IDC_REFRESH                     1036
+#define IDC_SQLLIST                     1039
+#define IDC_SQL_VIEW                    1041
+#define IDC_IGNORE_IDENTOTY             1042
+#define IDC_IGNORE_NOT_NULL             1043
+#define IDC_SAVE_SQL                    1044
+#define IDC_NO_PROC                     1045
+#define IDC_PROCLIST                    1047
+#define IDC_RESTORE_PATH                1048
+#define IDC_BTN_REF                     1049
+#define IDC_ED_INFO                     1051
+#define IDC_CHK_REC_ALERT               1052
+#define IDC_ED_ALERT_REC                1053
+#define IDC_ED_SYSINFO                  1054
+#define ID_SQLRUN                       32771
+#define ID_SQLFAIRING                   32772
+#define ID_CONNECT                      32773
+#define ID_DBCLOSE                      32774
+#define ID_SQL_NEW                      32777
+#define ID_BUTTON32778                  32778
+#define ID_SQL_SAVEAS                   32779
+#define ID_SQL_SQVE                     32780
+#define IDM_TABCLOSE                    32781
+#define IDM_DBRESTORE                   32782
+#define IDM_DBBACKUP                    32783
+#define IDM_TABLE_CREATOR               32784
+#define IDM_DBERACER                    32785
+#define IDM_SQL_CREATE_DB               32786
+#define ID_REFRESH                      32787
+#define IDM_EXPORTCSV                   32788
+#define ID_REFREST_VIEW                 32791
+#define ID_REFRESH_VIEW                 32792
+#define IDM_EXPORTXML                   32793
+#define IDM_EXPORTHTML                  32794
+#define IDM_CONFIG                      32795
+#define IDM_DEL_PROC                    32796
+#define ID_ALLSELECT                    32797
+#define IDM_SQLDELETE                   32798
+#define IDM_OPENPATH                    32799
+#define IDM_SQLHIST                     32800
+#define ID_NEW_SDT                      32802
+#define IDM_MDB_CREATE                  32803
+#define ID_INDICATOR_SEARCH             59143
+#define ID_FUNCTAB                      59394
+#define ID_INFOTREE                     59395
+#define ID_SQLEDITOR                    59396
+#define IDS_FRM_TIMER                   59397
+#define IDS_RESULT_TIMER                59398
+#define ID_PROP_TAB                     59399
+#define IDS_OUT_MSG_SQL                 59400
+#define IDS_OUT_ERR_THREAD_CREATE       59401
+#define IDS_OUT_ERR_THREAD_CREATE2      59402
+#define IDC_BTN_PREV                    59403
+#define IDC_BTN_FIRST                   59404
+#define IDC_BTN_NEXT                    59405
+#define IDC_BTN_END                     59406
+#define IDC_ED_PAGE                     59407
+#define IDC_ED_PAGE_BASE                59408
+#define IDC_BTN_SNAP                    59409
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_3D_CONTROLS                     1
+#define _APS_NEXT_RESOURCE_VALUE        151
+#define _APS_NEXT_COMMAND_VALUE         32804
+#define _APS_NEXT_CONTROL_VALUE         1055
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
+<meta name="GENERATOR" content="HelpMachine 2.4.8">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="機能説明">
+<param name="Local" value="_RESOURCE\1000func.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ファイルメニュー">
+<param name="Local" value="_RESOURCE\1001m_file.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="編集メニュー">
+<param name="Local" value="_RESOURCE\1002m_edit.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ツールメニュー">
+<param name="Local" value="_RESOURCE\1003m_tool.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="表示メニュー">
+<param name="Local" value="_RESOURCE\1004m_view.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ヘルプメニュー">
+<param name="Local" value="_RESOURCE\1005m_help.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ツリーポップアップメニュー">
+<param name="Local" value="_RESOURCE\1010m_treepop.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="テーブルポップアップメニュー">
+<param name="Local" value="_RESOURCE\1011m_tablepop.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="タブポップアップメニュー">
+<param name="Local" value="_RESOURCE\1012m_tabpop.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="メニューツールバー">
+<param name="Local" value="_RESOURCE\1020m_tbmenu.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="DB接続ツールバー">
+<param name="Local" value="_RESOURCE\1021m_dbmenu.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="チュートリアル">
+<param name="Local" value="_RESOURCE\2000tutorial.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="簡単な使い方説明">
+<param name="Local" value="_RESOURCE\2000tutorial.html#db_connect">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="データベースに接続する">
+	<param name="Local" value="_RESOURCE\2000tutorial.htmldb_connect">
+	</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="簡単な使い方説明">
+<param name="Local" value="_RESOURCE\2000tutorial.html#sqlrun">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="SQLを実行する">
+	<param name="Local" value="_RESOURCE\2000tutorial.htmlsqlrun">
+	</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="簡単な使い方説明">
+<param name="Local" value="_RESOURCE\2000tutorial.html#tbl_copy">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="テーブルの内容をコピーする">
+	<param name="Local" value="_RESOURCE\2000tutorial.htmltbl_copy">
+	</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="簡単な使い方説明">
+<param name="Local" value="_RESOURCE\2000tutorial.html#tbl_export">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="テーブルの内容をエクスポートする">
+	<param name="Local" value="_RESOURCE\2000tutorial.htmltbl_export">
+	</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="簡単な使い方説明">
+<param name="Local" value="_RESOURCE\2000tutorial.html#dbcreate">
+</OBJECT>
+<UL>
+	<LI><OBJECT type="text/sitemap">
+	<param name="Name" value="DB再現SQLを作成する">
+	<param name="Local" value="_RESOURCE\2000tutorial.htmldbcreate">
+	</OBJECT>
+</UL>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="サポート">
+<param name="Local" value="_RESOURCE\9000support.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="ライセンス">
+<param name="Local" value="_RESOURCE\9001licence.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="FAQ">
+<param name="Local" value="_RESOURCE\9002faq.html">
+</OBJECT>
+<LI><OBJECT type="text/sitemap">
+<param name="Name" value="更新履歴">
+<param name="Local" value="_RESOURCE\9999history.html">
+</OBJECT>
+</UL>
+</BODY></HTML>

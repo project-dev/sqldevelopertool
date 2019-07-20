@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
+<meta name="GENERATOR" content="HelpMachine 2.4.8">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="ImageType" value="Folder">
+<param name="Window Styles" value="0x800027">
+</OBJECT><UL>
+		<LI><OBJECT type="text/sitemap">
+		<param name="Name" value="SDT - SQL Developer Tool -">
+		<param name="Local" value="_RESOURCE\index.html">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+			<UL>
+
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="機能説明">
+			<param name="Local" value="_RESOURCE\1000func.html">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+				<UL>
+
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="ファイルメニュー">
+				<param name="Local" value="_RESOURCE\1001m_file.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="編集メニュー">
+				<param name="Local" value="_RESOURCE\1002m_edit.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="ツールメニュー">
+				<param name="Local" value="_RESOURCE\1003m_tool.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="表示メニュー">
+				<param name="Local" value="_RESOURCE\1004m_view.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="ヘルプメニュー">
+				<param name="Local" value="_RESOURCE\1005m_help.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="ツリーポップアップメニュー">
+				<param name="Local" value="_RESOURCE\1010m_treepop.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="テーブルポップアップメニュー">
+				<param name="Local" value="_RESOURCE\1011m_tablepop.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="タブポップアップメニュー">
+				<param name="Local" value="_RESOURCE\1012m_tabpop.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="メニューツールバー">
+				<param name="Local" value="_RESOURCE\1020m_tbmenu.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="DB接続ツールバー">
+				<param name="Local" value="_RESOURCE\1021m_dbmenu.html">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				</UL>
+
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="簡単な使い方説明">
+			<param name="Local" value="_RESOURCE\2000tutorial.html">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+				<UL>
+
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="データベースに接続する">
+				<param name="Local" value="_RESOURCE\2000tutorial.html#db_connect">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="SQLを実行する">
+				<param name="Local" value="_RESOURCE\2000tutorial.html#sqlrun">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="テーブルの内容をコピーする">
+				<param name="Local" value="_RESOURCE\2000tutorial.html#tbl_copy">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="テーブルの内容をエクスポートする">
+				<param name="Local" value="_RESOURCE\2000tutorial.html#tbl_export">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				<LI><OBJECT type="text/sitemap">
+				<param name="Name" value="DB再現SQLを作成する">
+				<param name="Local" value="_RESOURCE\2000tutorial.html#dbcreate">
+				<param name="ImageNumber" value="11">
+				</OBJECT>
+				</UL>
+
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="サポート">
+			<param name="Local" value="_RESOURCE\9000support.html">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="ライセンス">
+			<param name="Local" value="_RESOURCE\9001licence.html">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="FAQ">
+			<param name="Local" value="_RESOURCE\9002faq.html">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+			<LI><OBJECT type="text/sitemap">
+			<param name="Name" value="更新履歴">
+			<param name="Local" value="_RESOURCE\9999history.html">
+			<param name="ImageNumber" value="11">
+			</OBJECT>
+</UL>
+</UL>
+</BODY></HTML>

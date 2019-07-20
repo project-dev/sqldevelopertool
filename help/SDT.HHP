@@ -1,0 +1,39 @@
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1 or later
+Compiled file=SDT.chm
+Contents file=SDT.hhc
+Index file=SDT.hhk
+Default Font=MS UI Gothic,10,128
+Default Window=XHP
+Default topic=_RESOURCE\index.html
+Display compile progress=No
+Error log file=e:\work\tools\sdt\help\Compile.Log
+Flat=No
+Full-text search=Yes
+Language=0x0411 Japanese
+Title=SDT
+
+[WINDOWS]
+XHP="SDT","e:\work\tools\sdt\help\SDT.hhc","e:\work\tools\sdt\help\SDT.hhk","_RESOURCE\index.html",,,,,,0x60720,200,0x10300E,[0,0,765,552],0x0,0x0,,,,,0
+$global_Web="Remote URL",,,,,,,,,,,0x383c,[125,144,721,602],,,,,,,0
+
+[FILES]
+_RESOURCE\index.html
+_RESOURCE\1000func.html
+_RESOURCE\1001m_file.html
+_RESOURCE\1002m_edit.html
+_RESOURCE\1003m_tool.html
+_RESOURCE\1004m_view.html
+_RESOURCE\1005m_help.html
+_RESOURCE\1010m_treepop.html
+_RESOURCE\1011m_tablepop.html
+_RESOURCE\1012m_tabpop.html
+_RESOURCE\1020m_tbmenu.html
+_RESOURCE\1021m_dbmenu.html
+_RESOURCE\2000tutorial.html
+_RESOURCE\9000support.html
+_RESOURCE\9001licence.html
+_RESOURCE\9002faq.html
+_RESOURCE\9999history.html

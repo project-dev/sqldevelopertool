@@ -1,0 +1,155 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# åxçê: Ç±ÇÃ‹∞∏ΩÕﬂ∞Ω Ãß≤Ÿ Çï“èWÇ‹ÇΩÇÕçÌèúÇµÇ»Ç¢Ç≈Ç≠ÇæÇ≥Ç¢!
+
+###############################################################################
+
+Project: "DBTool"=.\DBTool.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name devjava
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devmfc
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devdb
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devstaticlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "MDBPlugin"=..\PLUGIN\MDBPlugin\MDBPlugin.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SDTPluginLib"=.\SDTPluginLib\SDTPluginLib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "devdb"=..\..\project_dev_lib\devdb\src\devdb.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name devstaticlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devjava
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "devjava"=..\..\project_dev_lib\devjava\src\devjava.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name devstaticlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "devlib"=..\..\project_dev_lib\devlib\src\devlib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name devstaticlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devjava
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "devmfc"=..\..\project_dev_lib\devmfc\src\devmfc.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name devjava
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devlib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name devstaticlib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "devstaticlib"=..\..\project_dev_lib\devstaticlib\src\devstaticlib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
